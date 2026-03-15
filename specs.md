@@ -1,7 +1,5 @@
 Requirements specification:
 
-
-
 Dashboard - pages such as reports, alerts, database, finances, analytics, staff planning calendar, squad planner
 
 Sectors - varying layout and permissions (user-groups) to ensure confidentiality - scouts will be restricted to certain
@@ -17,8 +15,6 @@ fit, club fit
 AI/ML utilization - translation from words to numbers, speech to text, data lookup, comparison, trends, analysis
 
 UI - works in the cold, big buttons, high contrast, mobile focus
-
-
 
 Topics:
 

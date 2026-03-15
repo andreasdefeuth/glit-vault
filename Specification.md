@@ -1,5 +1,3 @@
-# glit-vault
-
 Requirements specification:
 
 Dashboard - pages such as reports, alerts, database, finances, analytics, staff planning calendar, squad planner

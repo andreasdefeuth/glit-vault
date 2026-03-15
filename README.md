@@ -1,6 +1,5 @@
-# glit-vault
+# GLIT Vault
 
-GLIT Vault:
 Analytics architecture for football clubs (SaaS)
 
 Data is fragmented across too many systems - clubs typically use multiple platforms at the same time

@@ -28,3 +28,7 @@ personal tragedy? -1 mental resillience
 Communication - Members across the platform should be able to communicate through direct messages and forums
 
 Reports - parser: "Undersized, Missing speed, Super technique = Speed: +1.5 / Technique: +4.5"
+
+Offline usability - merging local and cloud storage
+
+MFA for deleting data
